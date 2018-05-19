@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs
+/Portal/bin
+/Portal/obj/Debug
+/Portal.Tests/bin/Debug
+/Portal.Tests/obj/Debug
